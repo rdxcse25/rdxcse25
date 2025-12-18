@@ -1,4 +1,4 @@
-[![MasterHead](github-header-banner.png
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
 )]
 <h1 align="center">Hi 👋, I'm Rituraj Debnath</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **riturajdebnath9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z0LHrBeDGpcaDeM8W8ywfC9TYV8wQICF/view?usp=sharing](https://drive.google.com/file/d/1z0LHrBeDGpcaDeM8W8ywfC9TYV8wQICF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ILJMFWCbM41h9lFHhuO-t8OO2nVa2-je/view?usp=sharing](https://drive.google.com/file/d/1ILJMFWCbM41h9lFHhuO-t8OO2nVa2-je/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
